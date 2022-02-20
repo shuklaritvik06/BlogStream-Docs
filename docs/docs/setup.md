@@ -51,6 +51,10 @@ NEXT_PUBLIC_SERVER_URL = https://xxxxxx.grandmoralis.com:2053/server
 
 ```
 
+### To get USDCx coins
+
+Go to superfluid dashboard. Go to currencies tab and wrap some USDCx coins
+
 ### Deploy Contract (local testing)
 
 To test contract on local do the following: <br/>
