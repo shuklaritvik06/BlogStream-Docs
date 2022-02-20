@@ -69,7 +69,10 @@ To test contract on local do the following: <br/>
 To deploy contracts on testnet or mainnet do the following: <br/>
 
 1. Get your account private key from metamask
-2. Add it to .env file -> `pk=<account private key>`
+2. To add your private key into the terminal <br/>
+   - `export pk=<your private key goes here>`
+   - to confirm run `echo $pk`. You will see your private key on the console.
+   - <b>Note - Don't share this private key with anyone</b>
 3. Uncomment the following lines from hardhat.config.js file. example of matic testnet
 
 ```jsx
